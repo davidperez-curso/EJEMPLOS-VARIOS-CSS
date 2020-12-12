@@ -1,0 +1,29 @@
+#blanconegro {
+  -webkit-filter: grayscale(1);
+  filter: grayscale(1);
+}
+
+#sepia {
+  -webkit-filter: sepia(1);
+  filter: sepia(1);
+}
+
+#difuminado {
+  -webkit-filter: blur(5px);
+  filter: blur(5px);
+}
+
+#brillo {
+  -webkit-filter: brightness(1.8);
+  filter: brightness(1.8);
+}
+
+#tonos {
+  -webkit-filter: contrast(1.8);
+  filter: contrast(1.8);
+}
+
+#invertir {
+  -webkit-filter: invert(1);
+  filter: invert(1);
+}

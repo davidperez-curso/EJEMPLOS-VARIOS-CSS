@@ -1,0 +1,12 @@
+h1 {
+  font-size: 50pt;
+  font-family: sans-serif;
+  text-shadow: 10px 11px 18px yellow, -10px -11px 18px red;
+}
+
+p {
+  font-size: 40pt;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 15px -15px 5px #34CF93, -10px 30px 5px #4869EE;
+}
+/*# sourceMappingURL=style.css.map */

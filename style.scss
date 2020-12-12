@@ -1,0 +1,20 @@
+
+$color1 : red;
+$color2 : yellow;
+$color3 : #34CF93;
+$color4 : #4869EE;
+
+
+
+h1 {
+    font-size: 50pt;
+    font-family: sans-serif;
+    text-shadow: 10px 11px 18px $color2,
+    -10px -11px 18px $color1;
+    }
+
+p {
+    font-size: 40pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 15px -15px 5px $color3, -10px 30px 5px $color4;
+}
