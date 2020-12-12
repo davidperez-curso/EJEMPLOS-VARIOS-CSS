@@ -1,0 +1,9 @@
+p{
+    font-family: "bookman old style";
+    font-size: 27px;
+  }
+
+  p::first-letter{
+    font-family: "papyrus";
+    font-size: 60px;
+  }
